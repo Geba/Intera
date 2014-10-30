@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Theme Colors-->
+    <color name="actionbarColor">@color/interaGreen</color>
+    <color name="backgroundDefaultColor">@color/interaWhite</color>
+
+
+
+
+
+
+
+
+
+    <!--Itera Colors-->
+    <color name="interaGreen">#2B8F76</color>
+    <color name="interaBlue">#006DCC</color>
+    <color name="interaWhite">#DBDBDB</color>
+    <color name="interaRed">#9E0000</color>
+
+
+    <!--defaultColors-->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
