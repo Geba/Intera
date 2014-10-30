@@ -15,10 +15,10 @@
 
 
     <!--Itera Colors-->
-    <color name="interaGreen">#2B8F76</color>
-    <color name="interaBlue">#006DCC</color>
+    <color name="interaGreen">#5ebc8b</color>
+    <color name="interaBlue">#5fa0af</color>
     <color name="interaWhite">#DBDBDB</color>
-    <color name="interaRed">#9E0000</color>
+    <color name="interaRed">#c14646</color>
 
 
     <!--defaultColors-->
